@@ -14,9 +14,9 @@
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-motas&layout=donut)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gui-motas&theme=tokyo-night&radius=10&from=2024-03-15&to=2024-08-25)](https://github.com/gui-motas)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gui-motas&theme=tokyo-night&radius=10&from=2024-03-15&to=2024-08-24)](https://github.com/gui-motas)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-motas&layout=donut)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-motas&repo=Website-Jer)](https://github.com/gui-motas/Website-Jer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-motas&repo=projeto-calculadora)](https://github.com/Guimasz/projeto-calculadora)
