@@ -9,11 +9,10 @@
 <h2 align="center">
   <span style="; font-size: 30px; ">
    
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=578C9E&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Guilherme!
-" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&width=435&lines=Hi%2C+my+name+is+Guilherme!)](https://git.io/typing-svg)
   </span> 
 
-  <span style="color: #578C9E; font-size: 30px; letter-spacing: 5px;">
+  <span style="color: #36BCF7FF; font-size: 30px; letter-spacing: 5px;">
     Contacts:
   </span>
 </h2>
@@ -34,11 +33,8 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNnaHprM3VlNTJxa241eHIzcWk1aWV1NHk0MXBhMzNoc3h5bGY3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="25%"/>
 </div>
 
-<div align="center" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=gui-motas&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" />
-</div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.oracle.com/java/">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
   </a>
@@ -48,31 +44,57 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
   </a>
+   <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
   <a href="https://spring.io/">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
   </a>
   <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
   </a>
+  <br>
+   <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
   </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+  </a>
+  <a href="https://bubble.io/">
+    <img src="https://img.shields.io/badge/Bubble-1A73E8?style=for-the-badge&logo=bubble&logoColor=white" alt="Bubble Badge"/>
+  </a>
+  <a href="https://threejs.org/">
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js Badge"/>
+  </a>
+ 
 </div>
+
+
+
+<div align="center" >
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gui-motas&theme=shadow-blue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" />
+</div>
+
+
+
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/gui-motas?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
+
+</div>
+
+
+
 
 <div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/gui-motas?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=blue" alt="Contributions Chart" />
-</div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gui-motas&theme=tokyo-night&radius=10&from=2024-03-15&to=2024-08-25)](https://github.com/gui-motas)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-motas&layout=donut)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-motas&repo=Website-Jer)](https://github.com/gui-motas/Website-Jer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-motas&repo=projeto-calculadora)](https://github.com/Guimasz/projeto-calculadora)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-motas&repo=Agenda_aulas)](https://github.com/gui-motas/Agenda_aulas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-motas&repo=SistemaReservasUniversidade)](https://github.com/gui-motas/SistemaReservasUniversidade)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-motas&repo=NotasAlunos)](https://github.com/gui-motas/NotasAlunos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gui-motas&repo=NotasAlunos)](https://github.com/gui-motas/NotasAlunos)
+</div>
+
 
 
