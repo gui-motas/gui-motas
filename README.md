@@ -2,19 +2,17 @@
 
 
 <div align="center">
-  <img src="image.png" alt="Image Banner" style="width: 100%; height: auto; max-height: 300px; object-fit: cover;">
+
+  ![Header](./assets/github-header.png)
+
 </div>
 
 <!-- Título com efeito de espaçamento de letras e cores -->
 <h2 align="center">
   <span style="; font-size: 30px; ">
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&width=435&lines=Hi%2C+my+name+is+Guilherme!)](https://git.io/typing-svg)
-  </span> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFFF7&center=true&vCenter=true&width=435&lines=Contacts+%3A)](https://git.io/typing-svg)
 
-  <span style="color: #36BCF7FF; font-size: 30px; letter-spacing: 5px;">
-    Contacts:
-  </span>
 </h2>
 
 <div id="badges" align="center">
